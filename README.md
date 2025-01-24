@@ -7,13 +7,13 @@
 
 ### Arquivos
 - encrypter.py
-  Criptografa o arquivo utilizado para teste (teste.txt).
+   Criptografa o arquivo utilizado para teste (teste.txt).
 - decrypter.py
-  Descriptografa o arquivo criptografado (teste.txt.ransomwaretroll)
+   Descriptografa o arquivo criptografado (teste.txt.ransomwaretroll)
 - teste.txt
-  Arquivo utilizado para teste.
+   Arquivo utilizado para teste.
 - teste.txt.ransomwaretroll
-  Arquivo criptografado.
+   Arquivo criptografado.
 
 ### Observações
 

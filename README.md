@@ -13,7 +13,7 @@
 
 ### Observações
 
-Alguns erros foram encontrados ao utilizar a versão do Kali Linux 
+Alguns erros foram encontrados ao utilizar a versão 2024.4 do Kali Linux.
 
 1. Ao executar o comando "#python encrypter" gerou o erro "ModuleNotFoundError: No module named 'pyaes'".
    Para solucionar foram necessários os seguintes passos:
